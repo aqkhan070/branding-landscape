@@ -171,7 +171,7 @@
 }
 
 @media (max-width: 600px) {
-  .nav-bar { padding: 6px 8px 6px 12px; }
+  .nav-bar { padding: 8px 14px; }
   .brand-text small { display: none; }
   .roles { grid-template-columns: 1fr; }
   .hero-actions { width: 100%; }

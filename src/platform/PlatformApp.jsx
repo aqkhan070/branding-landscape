@@ -149,7 +149,7 @@ function Topbar({ current, compact, onPick, interactive = true }) {
       </span>
       <span className="pf-user">
         <span className="pf-avatar">DA</span>
-        {!compact && <b>Demo Admin</b>}
+        {!compact && <b>Admin</b>}
       </span>
     </header>
   );
